@@ -1,1 +1,5 @@
-
+/* OVERRIDE a Bootstrap CLASS */
+.col {
+    height: 100%;
+    overflow: hidden;
+}
